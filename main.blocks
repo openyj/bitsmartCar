@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" x="0" y="0"/><block type="pxt-on-start" x="88" y="260"><statement name="HANDLER"><block type="mbit_setPixelRGB"><field name="lightoffset">microbit_CAR.Lights.All</field><field name="rgb">RGBColors.Off</field><next><block type="mbit_showLight"/></next></block></statement></block></xml>
